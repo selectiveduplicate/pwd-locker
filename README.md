@@ -1,5 +1,5 @@
 # Password-Locker
-This is an insecure password locker/manager program written using Python
+This is an insecure password locker/manager program written using Python.
 
 Provided Python is installed and the two files are in the same folder and in the "system PATH" on Windows, the script can be run by pressing WIN+R on Windows and typing:
 
